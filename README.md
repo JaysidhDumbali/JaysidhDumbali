@@ -12,8 +12,8 @@
 
 ### Talk to me about
 - Robust full-stack implementations:  **Javascript, RoR, Django,React, Node JS**
-- Data Management: **Firebase, MySQL**
-- Machine Learning: **Python, R **
+- Databases: **MySQL, Redis, Mongo**
+- Machine Learning: **Python, R**
 
 
 
