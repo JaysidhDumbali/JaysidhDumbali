@@ -14,3 +14,7 @@
 - Robust full-stack implementations:  **Javascript, RoR, Django,React, Node JS**
 - Databases: **MySQL, Redis, Mongo**
 - Machine Learning: **Python, R**
+
+
+
+[![Jaysidh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaysidhdumbali&theme=react-dark)](https://git.io/jaysidhdumbali) 
